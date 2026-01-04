@@ -9,23 +9,27 @@
 }
 .case { 
     max-width: 500px; 
-    padding: 2rem; 
     background: rgb(231, 235, 196); 
     border-radius: 12px; 
     box-shadow: 0 4px 15px rgba(0,0,0,0.1); 
 }
 .case h1 { 
-    margin-top: 0; 
+    margin: 2rem; 
+}
+
+.case p {
+    margin-left: 2rem;
 }
 
 .strafboek {
     background-color: rgb(255, 193, 205);
-}
-
-.strafboek h1{
-
+    margin-bottom: 0;
+    width: 100%;
 }
 
 .strafboek p{
 
+}
+.strafboek h1{
+    font-size: 100;
 }
