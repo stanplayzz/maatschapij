@@ -2,5 +2,5 @@ title: "My Card Site"
 url: "https://stanplayzz.github.io"
 markdown: kramdown
 collections:
-  cards:
+  zaken:
     output: true
