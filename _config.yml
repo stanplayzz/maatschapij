@@ -1,0 +1,6 @@
+title: "My Card Site"
+url: "https://username.github.io"
+markdown: kramdown
+collections:
+  cards:
+    output: true
