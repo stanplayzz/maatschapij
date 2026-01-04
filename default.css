@@ -22,7 +22,8 @@
 }
 
 .p {
-    max-width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .strafboek {
@@ -32,4 +33,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+.strafboek a {
+    margin-bottom: 2rem;
 }
