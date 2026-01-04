@@ -21,9 +21,9 @@
     margin: 2rem; 
 }
 
-.p {
-    margin-left: 5%;
-    margin-right: 5%;
+.case p {
+    max-width: 90%;
+    margin: 0 auto;
 }
 
 .strafboek {
