@@ -1,0 +1,31 @@
+ body { 
+    font-family: sans-serif; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    min-height: 100vh; 
+    margin: 0; 
+    background: #f9f9f9; 
+}
+.case { 
+    max-width: 500px; 
+    padding: 2rem; 
+    background: rgb(231, 235, 196); 
+    border-radius: 12px; 
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1); 
+}
+.case.h1 { 
+    margin-top: 0; 
+}
+
+.strafboek {
+    background-color: rgb(255, 193, 205);
+}
+
+.strafboek.h1{
+
+}
+
+.strafboek.p{
+
+}
