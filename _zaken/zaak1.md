@@ -1,8 +1,14 @@
 ---
 layout: default
-title: Ja man, je bent fucked.
-description: Lorem ipsum dolor sit amet. Ut porro sint eos quis aspernatur in dolorem odit et tenetur nostrum est sint enim ex maiores perspiciatis aut nemo commodi. Ut exercitationem itaque ab enim omnis et esse impedit est dolores voluptatem est mollitia aspernatur aut sunt molestias aut dolores corrupti. Et molestiae nesciunt sit repellendus maiores quo aperiam recusandae et placeat numquam 33 reiciendis perferendis qui nobis voluptates.
-strafboek_title: Artikel 207a Wetboek van Strafrecht
-strafboek_description: "Hij die in de gevallen waarin door of krachtens een verdrag waarbij het Koninkrijk partij is, een verklaring onder ede of onder een daarvoor in de plaats tredende bevestiging of belofte wordt gevorderd, voor een internationaal gerecht mondeling of schriftelijk, persoonlijk of door een bijzonder daartoe gemachtigde, opzettelijk een valse verklaring in die vorm aflegt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie."
-strafboek_perma_link: https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=IX&artikel=207a&z=2026-01-01&g=2026-01-01
+title: Moord op advocaat Derk Wiersum
+description: "De dader zou zijn ingehuurd door Anouar Taghi. Het slachtoffer, Derk Wiersum, was advocaat van een kroongetuige in de Marengo-zaak tegen Ridouan Taghi, een verwant van Anouar Taghi. Op 18 september 2019 werd Wiersum in de vroege ochtend voor zijn woning doodgeschoten. \n Tijdens het onderzoek vond het Openbaar Ministerie meerdere aanwijzingen die de dader met de moord in verband brengen. Zo waren er camerabeelden waarop te zien is dat de verdachte auto meerdere keren rond de woning van Wiersum reed. Daarnaast werd een vluchtauto aangetroffen waarin bloed van Derk Wiersum is gevonden. In deze auto zijn ook DNA-sporen van de verdachte aangetroffen. Verder lieten telefoon- en locatiegegevens zien dat de verdachte zich rond het tijdstip van de moord in de buurt van de woning van Wiersum bevond."
+strafboek:
+    - title: Artikel 287 Wetboek van Strafrecht
+      description: >
+        Hij die opzettelijk een ander van het leven berooft, wordt, als schuldig aan doodslag, gestraft met gevangenisstraf van ten hoogste vijfentwintig jaren of geldboete van de vijfde categorie.
+      link: https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=287&z=2026-01-01&g=2026-01-01
+    - title: Artikel 289 Wetboek van Strafrecht
+      description: >
+        Hij die opzettelijk en met voorbedachten rade een ander van het leven berooft, wordt, als schuldig aan moord, gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
+      link: https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XIX&artikel=289&z=2026-01-01&g=2026-01-01
 ---
