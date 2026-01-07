@@ -1,7 +1,7 @@
 <div class="strafboek">
   <h2>{{ item.title }}</h2>
-  <p>{{ item.description }}</p>
+  {{ item.description | markdownify }}
   <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">
     {{ item.title }}
   </a>
-</div>
+</div> 
