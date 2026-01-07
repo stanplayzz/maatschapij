@@ -5,10 +5,10 @@ description: "In 2018 werd in Tilburg een man aangehouden die volledig alleen ee
 strafboek:
     - title: Artikel 3 Opiumwet
       description: >
-        Het is verboden een middel als bedoeld in de bij deze wet behorende lijst II dan wel aangewezen krachtens artikel 3a, vijfde lid:
-        A.binnen of buiten het grondgebied van Nederland te brengen;
-        B.te telen, te bereiden, te bewerken, te verwerken, te verkopen, af te leveren, te verstrekken of te vervoeren;
-        C.aanwezig te hebben;
+        Het is verboden een middel als bedoeld in de bij deze wet behorende lijst II dan wel aangewezen krachtens artikel 3a, vijfde lid:\n
+        A.binnen of buiten het grondgebied van Nederland te brengen;\n
+        B.te telen, te bereiden, te bewerken, te verwerken, te verkopen, af te leveren, te verstrekken of te vervoeren;\n
+        C.aanwezig te hebben;\n
         D.te vervaardigen.
       link: https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3&z=2026-01-01&g=2026-01-01
     - title: Artikel 310 Wetboek van Strafrecht
