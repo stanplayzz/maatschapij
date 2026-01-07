@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Minderjarige pleegt straatroof.
+title: Minderjarige pleegt straatroof
 description: "Een 16-jarige jongen pleegde in zijn eentje een straatroof in een woonwijk. Hij bedreigde een andere jongere met woorden (geen wapen) en nam een telefoon en wat geld af. Het slachtoffer deed aangifte. Camerabeelden uit de buurt hielpen bij de herkenning en de dader bekende tijdens het verhoor."
 strafboek:
     - title: Artikel 285 Wetboek van Strafrecht
@@ -30,4 +30,5 @@ strafboek:
             6°.	diefstal met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken.
 
         2.	Indien de onder 3° omschreven diefstal vergezeld gaat van een der in onder 4° en 5° vermelde omstandigheden, wordt gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie opgelegd.
+      link: https://wetten.overheid.nl/jci1.3:c:BWBR0001854&boek=Tweede&titeldeel=XXII&artikel=311&z=2026-01-01&g=2026-01-01
 ---
