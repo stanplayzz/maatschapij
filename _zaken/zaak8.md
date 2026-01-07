@@ -5,6 +5,6 @@ description: "In 2019 veroorzaakte een 24-jarige automobilist een ernstig verkee
 strafboek:
    - title: Artikel 307 Wetboek van Strafrechtn
      description: >
-        1 Hij aan wiens schuld de dood van een ander te wijten is, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.\n
-        2 Indien de schuld bestaat in roekeloosheid, wordt hij gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
+        "1 Hij aan wiens schuld de dood van een ander te wijten is, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.\n
+        2 Indien de schuld bestaat in roekeloosheid, wordt hij gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie."
 ---
